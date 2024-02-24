@@ -1,0 +1,39 @@
+**STYLE OF PLACING KEYS**
+- Tile the whole screen
+- Use ML to guess where buttons are
+- Use ML to track users eyes to guess whereabout they are looking.
+- Place Keys like a quad tree, and users can slowly narrow down how specifically they want to click by quadrent.
+
+**STYLE OF BUTTONS**
+- white backgnound with black text
+- clear background with text inverted of screen.
+- black with violet text
+
+**STYLE OF RENDERING**
+- Render each button individually
+- Render all buttons to one image and just display that image.
+
+**OPTIONS FOR CLICKING**
+- Click
+- Double click
+- Click and drag
+- Control click
+- Right click
+- Middle click
+
+**Options for mouse movement**
+- Instantatious (might not work for click and drag?)
+- Linear drag
+- Humanlike drag
+
+
+**OPTIONS FOR AUTOMATION**
+- Give a sequence of inputs to run through, possibly on loop.
+- Record user and directly click on those coordinates.
+
+**OPTIONS FOR APPLICATION FLOW**
+- Open and Close application every use.
+- Open the appliction at startup and keep it open. (preferable)
+
+**OPTIONS PROVIDED THOUGH CONFIG**
+- Keybindings for each click
